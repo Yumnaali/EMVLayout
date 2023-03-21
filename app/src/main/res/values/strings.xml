@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="insert_your_card_txt">Please tap or insert your card</string>
+    <string name="amount">R8.00</string>
+    <string name="total_amount_due">Total Amount Due</string>
+    <string name="cancel">Cancel</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="cheque">Cheque</string>
+    <string name="savings">Savings</string>
+    <string name="txt_cancel_transactions">Cancel Transaction</string>
+</resources>
